@@ -5,6 +5,7 @@ A Twitter clone featuring basic user interactions such as tweeting to feed, like
 
 ## Module
 This is a training project built to consolidate key concepts I learned from:
+
 **Module 5 - Essential JavaScript Concepts** [Scrimba Frontend Career Path Course](https://scrimba.com/learn/frontend) 
 
 ## Concepts
